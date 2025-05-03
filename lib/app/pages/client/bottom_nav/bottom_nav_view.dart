@@ -8,7 +8,7 @@ class BottomNavView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Sign In')),
+      appBar: AppBar(title: const Text('BottomNavView')),
       body: Center(child: const Text('BottomNavView is working!')),
     );
   }

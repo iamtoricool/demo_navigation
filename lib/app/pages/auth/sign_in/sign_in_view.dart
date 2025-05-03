@@ -8,7 +8,7 @@ class SignInView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Sign In')),
+      appBar: AppBar(title: const Text('SignInView')),
       body: Center(child: const Text('SignInView is working!')),
     );
   }
